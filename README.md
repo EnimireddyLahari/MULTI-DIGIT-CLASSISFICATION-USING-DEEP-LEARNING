@@ -1,0 +1,2 @@
+# MULTI-DIGIT-CLASSISFICATION-USING-DEEP-LEARNING
+Handwritten digit recognition is essential in banking, academics, and automated data entry. This project uses a CNN trained on the MNIST dataset to recognize handwritten digits. Image preprocessing and segmentation enable accurate recognition of multiple digits in a single image, eliminating manual feature extraction and supporting real-world apps.
